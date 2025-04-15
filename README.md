@@ -126,4 +126,5 @@ java -jar ExpenseTracker.jar
  Technical Documentation :
 
  Class Diagram :
+ ![image alt](https://github.com/mkpateladit/Meet_Expense-Tracker/blob/main/Screenshot%202025-04-13%20101528.png?raw=true)
  
