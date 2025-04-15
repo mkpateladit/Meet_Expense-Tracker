@@ -92,4 +92,34 @@ Support for database storage
 
 Export reports in PDF/Excel formats
 
+🖥️ Running the Application
+Method 1: Running from Source Code (IDE or Command Line)
+Clone the repository (if applicable):
+
+bash
+Copy
+git clone <your-repository-url>
+cd <project-folder>
+Compile the Java file:
+
+bash
+Copy
+javac ExpenseTracker.java
+Run the application:
+
+bash
+Copy
+java ExpenseTracker
+Method 2: Running a Pre-Built JAR (If Available)
+Download the .jar file (if provided in releases).
+
+Run via command line:
+
+bash
+Copy
+java -jar ExpenseTracker.jar
+
+ Screenshots: 
+ 
+
 ![image alt](https://github.com/mkpateladit/Meet_Expense-Tracker/blob/main/Screenshot%202025-04-13%20215749.png?raw=true)
