@@ -120,17 +120,8 @@ Copy
 java -jar ExpenseTracker.jar
 
 Screenshots: 
-![image alt]()
+![image alt](https://github.com/mkpateladit/Meet_Expense-Tracker/blob/main/Screenshot%202025-04-15%20220436.png?raw=true)
 
 
 Technical Documentation :
 
-Class Diagram :
-![image alt](https://github.com/mkpateladit/Meet_Expense-Tracker/blob/main/Screenshot%202025-04-13%20101528.png?raw=true)
- 
-Sequence Diagram :
-![image alt](https://github.com/mkpateladit/Meet_Expense-Tracker/blob/main/Screenshot%202025-04-13%20220108.png?raw=true)
-
-Flow Diagram :
-
-![image alt](https://github.com/mkpateladit/Meet_Expense-Tracker/blob/main/Screenshot%202025-04-13%20215749.png?raw=true)
