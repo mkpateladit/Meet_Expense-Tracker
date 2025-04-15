@@ -120,8 +120,8 @@ Copy
 java -jar ExpenseTracker.jar
 
 Screenshots: 
-![image alt](https://github.com/mkpateladit/Meet_Expense-Tracker/blob/main/Screenshot%202025-04-15%20220411.png?raw=true)
-![image alt](https://github.com/mkpateladit/Meet_Expense-Tracker/blob/main/Screenshot%202025-04-15%20220436.png?raw=true)
+![image alt]()
+
 
 Technical Documentation :
 
