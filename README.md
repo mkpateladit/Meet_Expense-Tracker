@@ -91,3 +91,5 @@ Add data visualization (charts/graphs)
 Support for database storage
 
 Export reports in PDF/Excel formats
+
+![image alt](https://github.com/mkpateladit/Meet_Expense-Tracker/blob/main/Screenshot%202025-04-13%20215749.png?raw=true)
